@@ -1,0 +1,9 @@
+dict={
+    "name":"Disha",
+    "marks":{
+        "phy":99,
+        "chem":99,
+        "bio":100
+    }
+}
+print(dict["marks"])
