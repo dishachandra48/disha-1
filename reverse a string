@@ -1,0 +1,2 @@
+s = "Disha"
+print(s[::-1])
